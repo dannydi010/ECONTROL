@@ -4,8 +4,6 @@ Movimiento de tierras
 Proyecto de movimientos de tierra en Unreal Engine 4
 -----------------------------------------------------
 
-Danny Dijair Rosas Andrade
-
 Consideraciones:
 	
 	- Tener instalado Unreal Engine 4 con la versión 19.
